@@ -3,7 +3,7 @@ Contributors: soflyy, wpallimport, dvkob
 Tags: import csv, csv, import, spreadsheet, excel
 Requires at least: 3.1
 Requires PHP: 7.0
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 0.4.2
 
 Import posts from CSV files into WordPress.
